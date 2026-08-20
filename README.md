@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Robotics Researcher
+### 🤖 Robotics Researcher
 
 I study **decision-making under uncertainty** and **optimal policy design**<br />
 for autonomous driving systems.
