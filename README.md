@@ -43,12 +43,16 @@ I'm a mechanical engineering researcher at **UNIST**, working at the intersectio
 - 🏎️ **Mentor**, Korean University Student Automobile Research Forum — Autonomous Driving Team _(Feb. 2024 – Aug. 2026)_
 - 🔬 **Undergraduate Research Assistant**, Hanyang University ERICA _(Jun. 2019 – Dec. 2019)_
 
-## Selected highlights
+## Honors & Awards
 
-- 📄 **Reinforcement Learning-Guided MPC for Autonomous Racing** — ASCC 2026
-- 🥈 **2nd Place** — ICRA RoboRacer Autonomous Grand Prix, 2025
-- 🥉 **3rd Place** — ICCAS F1TENTH Korea Championship, 2024
-- 🥈 **Silver Award** — BTS U-Challenge Festival, 2025
+- 🥈 **2nd Place** — ICRA RoboRacer Autonomous Grand Prix, May 2025
+- 🥈 **Silver Award** — BTS (Brain to Society) U-Challenge Festival, January 2025
+- 🥉 **3rd Place** — ICCAS F1TENTH Korea Championship, October 2024
+- 🏆 **Excellence Award** — Division of Smart Convergence Engineering Graduation Project Exhibition, Robotics Major, December 2023
+- 🥉 **Bronze Award** — 2023 88 Robot Day SHARE Challenge, August 2023
+- 🥈 **Second Prize** — Digital Innovation Sharing University Robotics Conference, January 2023
+- 🏆 **Special Award** — 2022 International College Student Creative Car Contest, November 2022
+- 🌟 **Encouragement Award** — 2020 Devicemart ICT Convergence Project Contest, May 2020
 
 ## Tech stack
 
