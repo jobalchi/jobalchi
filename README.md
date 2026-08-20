@@ -55,14 +55,14 @@ I'm a mechanical engineering researcher at **UNIST**, working at the intersectio
 
 ## Honors & Awards
 
-- 🥈 **2nd Place** — ICRA RoboRacer Autonomous Grand Prix, May 2025
-- 🥈 **Silver Award** — BTS (Brain to Society) U-Challenge Festival, January 2025
-- 🥉 **3rd Place** — ICCAS F1TENTH Korea Championship, October 2024
-- 🏆 **Excellence Award** — Division of Smart Convergence Engineering Graduation Project Exhibition, Robotics Major, December 2023
-- 🥉 **Bronze Award** — 2023 88 Robot Day SHARE Challenge, August 2023
-- 🥈 **Second Prize** — Digital Innovation Sharing University Robotics Conference, January 2023
-- 🏆 **Special Award** — 2022 International College Student Creative Car Contest, November 2022
-- 🌟 **Encouragement Award** — 2020 Devicemart ICT Convergence Project Contest, May 2020
+- 🥈 **2nd Place** — ICRA RoboRacer Autonomous Grand Prix _(May 2025)_
+- 🥈 **Silver Award** — BTS (Brain to Society) U-Challenge Festival _(Jan. 2025)_
+- 🥉 **3rd Place** — ICCAS F1TENTH Korea Championship _(Oct. 2024)_
+- 🏆 **Excellence Award** — Division of Smart Convergence Engineering Graduation Project Exhibition, Robotics Major _(Dec. 2023)_
+- 🥉 **Bronze Award** — 2023 88 Robot Day SHARE Challenge _(Aug. 2023)_
+- 🥈 **Second Prize** — Digital Innovation Sharing University Robotics Conference _(Jan. 2023)_
+- 🏆 **Special Award** — 2022 International College Student Creative Car Contest _(Nov. 2022)_
+- 🌟 **Encouragement Award** — 2020 Devicemart ICT Convergence Project Contest _(May 2020)_
 
 ## Tech stack
 
