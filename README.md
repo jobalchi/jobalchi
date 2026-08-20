@@ -38,10 +38,19 @@ I'm a mechanical engineering researcher at **UNIST**, working at the intersectio
 - 🎓 **M.S. in Mechanical Engineering**, UNIST _(Mar. 2024 – Aug. 2026)_
 - 🎓 **B.S. in Robotics Convergence Engineering**, Hanyang University ERICA _(Mar. 2019 – Feb. 2024)_
 
-## Experience
+## Society
 
 - 🏎️ **Mentor**, Korean University Student Automobile Research Forum — Autonomous Driving Team _(Feb. 2024 – Aug. 2026)_
-- 🔬 **Undergraduate Research Assistant**, Hanyang University ERICA _(Jun. 2019 – Dec. 2019)_
+- 🏎️ **Deputy Team Leader**, Korean University Student Automobile Research Forum — Autonomous Driving Team _(Sep. 2023 – Feb. 2024)_
+- 🌟 **President**, Division of Smart Convergence Engineering Major Association E-RUS _(Mar. 2023 – Dec. 2023)_
+- 🏎️ **Member**, Korean University Student Automobile Research Forum — Autonomous Driving Team _(Mar. 2023 – Aug. 2023)_
+
+## Experience
+
+- 🧑‍🎓 **Trainee**, Hyundai Motor 2023 H-Mobility Class — Autonomous Driving _(Jul. 2023 – Sep. 2023)_
+- 🧑‍🎓 **Trainee**, Innovation Center for Engineering Education — Autonomous Driving Robot Expert Course, Computer Vision _(Jul. 2023 – Aug. 2023)_
+- 🔬 **Undergraduate Research Assistant**, Hanyang University ERICA _(Jun. 2019 – Dec. 2019)_<br />
+  Advised by Prof. Minsung Kang — Swerve Drive System Design and Control / Robotics Education for High School Students
 
 ## Honors & Awards
 
