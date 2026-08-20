@@ -4,7 +4,7 @@
 
 ### 🤖 Robotics Researcher
 
-I study **decision-making under uncertainty** and **optimal policy design**<br />
+I am interested in **decision-making under uncertainty** and **optimal policy design**<br />
 for autonomous driving systems.
 
 <br />
