@@ -49,8 +49,7 @@ I'm a mechanical engineering researcher at **UNIST**, working at the intersectio
 
 - 👨‍🎓 **Trainee**, Hyundai Motor 2023 H-Mobility Class — Autonomous Driving _(Jul. 2023 – Sep. 2023)_
 - 👨‍🎓 **Trainee**, Innovation Center for Engineering Education — Autonomous Driving Robot Expert Course, Computer Vision _(Jul. 2023 – Aug. 2023)_
-- 🔬 **Undergraduate Research Assistant**, Hanyang University ERICA _(Jun. 2019 – Dec. 2019)_<br />
-  Advised by Prof. Minsung Kang — Swerve Drive System Design and Control / Robotics Education for High School Students
+- 🔬 **Undergraduate Research Assistant**, Hanyang University ERICA _(Jun. 2019 – Dec. 2019)_
 
 ## Honors & Awards
 
