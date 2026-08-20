@@ -15,8 +15,6 @@ for autonomous driving systems.
 <a href="https://jobalchi.github.io">
   <img src="https://img.shields.io/badge/Portfolio-jobalchi.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=jobalchi&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
-
 </div>
 
 <br />
