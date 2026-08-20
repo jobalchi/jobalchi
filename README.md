@@ -31,8 +31,8 @@ I'm a mechanical engineering researcher at **UNIST**, working at the intersectio
   <img src="https://img.shields.io/badge/Autonomous_Systems-0F172A?style=flat-square" alt="Autonomous Systems" />
   <img src="https://img.shields.io/badge/Optimal_Policy-1D4ED8?style=flat-square" alt="Optimal Policy" />
   <img src="https://img.shields.io/badge/Uncertainty--Aware-2563EB?style=flat-square" alt="Uncertainty-Aware" />
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-0891B2?style=flat-square" alt="Reinforcement Learning" />
   <img src="https://img.shields.io/badge/Decision--Making-06B6D4?style=flat-square" alt="Decision-Making" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-0891B2?style=flat-square" alt="Reinforcement Learning" />
 </p>
 
 ## Education
