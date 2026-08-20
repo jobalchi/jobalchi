@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:2563EB,100:22D3EE&text=SEONGJUN%20LEE&fontColor=F8FAFC&fontSize=48&fontAlignY=42&desc=Welcome%20Jobalchi%27s%20github%21&descSize=16&descAlignY=63&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:E0F2FE,50:7DD3FC,100:22D3EE&text=SEONGJUN%20LEE&fontColor=0F172A&fontSize=48&fontAlignY=42&desc=Welcome%20Jobalchi%27s%20github%21&descSize=16&descAlignY=63&animation=fadeIn)
 
 <div align="center">
 
@@ -57,21 +57,12 @@ I'm a mechanical engineering researcher at **UNIST**, working at the intersectio
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C and C++" />
-  <img src="https://img.shields.io/badge/ROS_1_%26_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 1 and 2" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## GitHub at a glance
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jobalchi&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=22D3EE&text_color=64748B&rank_icon=github" alt="Jobalchi's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobalchi&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=64748B" alt="Jobalchi's most used languages" />
-</div>
-
-<br />
-
-## Let's connect
+## Contact
 
 I'm always open to conversations about autonomous systems, research, and collaboration.
 
